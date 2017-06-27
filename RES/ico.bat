@@ -1,0 +1,1 @@
+brcc32.exe ico.RC ico.res
